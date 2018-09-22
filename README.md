@@ -1,1 +1,1 @@
-# ImageDenoising
+# Image_Denoising_Convex_Opt
